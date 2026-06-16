@@ -118,6 +118,12 @@ Performed data preparation, cleansing, and transformation using Excel, SQL, and 
 
 ---
 
+## 📈 GitHub Activity
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lathajaya80&theme=github_dark" />
+</p>
+---
 ## 🔥 GitHub Streak
 
 <p align="center">
