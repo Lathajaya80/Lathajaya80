@@ -1,37 +1,152 @@
-#🌟 Hi, I'm Latha — Data Analyst & Insight‑Driven Problem Solver
-I turn raw data into clear, meaningful insights that help businesses make smarter decisions.
-I enjoy analysing complex datasets, building dashboards, and creating data stories that are easy for anyone to understand.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Welcome%20to%20My%20Profile&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-🛠️ Technical Skills
-📊 Excel
-https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white  
-Strong experience in data cleaning, pivot tables, dashboards, and advanced formulas to support business reporting and analysis.
+<h1 align="center">Hi 👋, I'm Latha Jayaprakash</h1>
 
-📈 Tableau
-https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white  
-Skilled in building interactive dashboards and visualisations that help stakeholders explore trends and make data‑driven decisions.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=950&lines=Data+Analyst;Insight-Driven+Problem+Solver;Power+BI+Developer;Tableau+Dashboard+Creator;SQL+and+Database+Analyst;Python+for+Data+Analytics;Business+Intelligence+Enthusiast" />
+</p>
 
-📉 Power BI
-https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black  
-Experienced in creating dynamic reports, data models, and DAX calculations to deliver actionable business intelligence.
+<p align="center">
+<a href="https://www.linkedin.com/in/hemalatha-jayaprakash-81689a304">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:latha78chico@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
 
-🗄️ SQL
-https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white  
-Proficient in querying, joining, and transforming data to support reporting, analysis, and operational insights.
+---
 
-🐍 Python
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white  
-Use Python for data cleaning, automation, and analysis using libraries such as Pandas, NumPy, and Matplotlib.
+## 👩‍💻 About Me
 
-☁️ Azure
-https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white  
-Hands‑on experience with cloud‑based data solutions for scalable storage, processing, and analytics.
+📊 Data Analyst passionate about transforming raw data into meaningful insights
 
-🚀 About Me
-I’m passionate about solving problems with data and turning numbers into meaningful insights.
-I enjoy building dashboards, improving processes, and continuously learning new tools in the data space.
+📈 Skilled in dashboard creation, business reporting, and data visualization
 
-📫 Connect With Me
-LinkedIn: https://www.linkedin.com/in/hemalatha-jayaprakash-81689a304 (linkedin.com in Bing)
+🗄️ Strong foundation in SQL, Data Cleaning, and Data Analysis
 
-Email: latha78chico@gmail.com
+🐍 Python enthusiast for analytics and automation
+
+☁️ Exploring Azure Cloud technologies for scalable analytics
+
+🎯 Focused on Business Intelligence and Data Storytelling
+
+---
+
+## 🏆 Technical Skills
+
+| 🏅 Skill | 📌 Expertise                                               |
+| -------- | ---------------------------------------------------------- |
+| Excel    | Data Cleaning, Dashboards, Pivot Tables, Advanced Formulas |
+| Tableau  | Interactive Dashboards & Data Visualization                |
+| Power BI | Reports, Data Models & DAX                                 |
+| SQL      | Querying, Joins & Data Transformation                      |
+| Python   | Pandas, NumPy & Matplotlib                                 |
+| Azure    | Cloud-Based Analytics Solutions                            |
+
+---
+
+## ⚙️ MY TECH STACK
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,azure,git,github,vscode" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Sales Dashboard Analysis
+
+Created interactive dashboards to track revenue, KPIs, and business performance metrics.
+
+### 📈 Customer Insights Project
+
+Analyzed customer behavior and identified trends using SQL and visualization tools.
+
+### 🗄️ Data Cleaning & Transformation
+
+Performed data preparation, cleansing, and transformation using Excel, SQL, and Python.
+
+### 🌐 Upcoming Projects
+
+* Power BI Business Dashboard
+* SQL Analytics Portfolio
+* Python Data Analysis Projects
+* Azure Data Analytics Solutions
+
+---
+
+## 🎯 CURRENT LEARNING
+
+```text
+📊 Advanced Power BI
+📈 Tableau Dashboard Design
+🗄️ Advanced SQL
+🐍 Python for Data Analytics
+☁️ Azure Data Services
+📉 Business Intelligence
+```
+
+---
+
+### 📈 Areas of Expertise
+
+`Excel` • `Power BI` • `Tableau` • `SQL` • `Python` • `Data Analysis` • `Business Intelligence` • `Azure`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lathajaya80&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lathajaya80&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lathajaya80&theme=tokyonight" />
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Lathajaya80&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<a href="https://github.com/Lathajaya80?tab=followers">
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/hemalatha-jayaprakash-81689a304
+
+📧 Email: [latha78chico@gmail.com](mailto:latha78chico@gmail.com)
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+</p>
